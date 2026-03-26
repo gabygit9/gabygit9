@@ -46,12 +46,6 @@ Herramientas & DevOps:
   <img src="https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
 </p>
 
-📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabygit9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="Stats de Gabriela" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabygit9&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Lenguajes más usados" />
-</p>
-
 📫 Contacto
 <p align="left">
   <a href="https://linkedin.com/in/gabrielacamachol">
