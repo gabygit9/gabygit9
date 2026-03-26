@@ -1,16 +1,64 @@
-## Hi there 👋
+# ¡Hola! Soy Gabriela Camacho 👋
 
-<!--
-**gabygit9/gabygit9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy una desarrolladora apasionada por el **Backend** y la **arquitectura de software**. Actualmente estoy cursando mi último año en la UTN Córdoba y realizando el desarrollo integral de **EcoNexo**, una plataforma de impacto social.
 
-Here are some ideas to get you started:
+Vengo de una trayectoria profesional de más de 10 años en sectores de alta exigencia, lo que me ha dado una base sólida en resolución de problemas, disciplina y trabajo bajo presión. Hoy, aplico toda esa experiencia en la creación de soluciones tecnológicas robustas y escalables.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+
+- 🔭 **Actualmente trabajando en:** EcoNexo (Proyecto Final de Carrera - Full Stack)
+- 🌱 **Aprendiendo continuamente sobre:** Arquitectura de Microservicios y Clean Code
+- 💬 **Hablame sobre:** Java, Spring Boot y cómo construir software que resuelva problemas reales.
+- 🌍 **Idiomas:** Español (Nativo) · Portugués (Fluido) · Inglés (B2)
+
+---
+
+🛠️ Tech Stack
+Backend:
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/springsecurity-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+</p>
+Frontend:
+<p align="left">
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+</p>
+Bases de Datos:
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/mysql-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+Herramientas & DevOps:
+<p align="left">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+</p>
+
+📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabygit9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="Stats de Gabriela" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabygit9&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Lenguajes más usados" />
+</p>
+
+📫 Contacto
+<p align="left">
+  <a href="https://linkedin.com/in/gabrielacamachol">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gabycamacho34@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
