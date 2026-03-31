@@ -2,18 +2,17 @@
 
 # ¡Hola! Soy Gabriela Camacho 👋
 
-Soy una desarrolladora apasionada por el **Backend** y la **arquitectura de software**. Actualmente estoy cursando mi último año en la UTN Córdoba y realizando el desarrollo integral de **EcoNexo**, una plataforma de impacto social.
+👩‍💻 Sobre mí
 
-Vengo de una trayectoria profesional de más de 10 años en sectores de alta exigencia, lo que me ha dado una base sólida en resolución de problemas, disciplina y trabajo bajo presión. Hoy, aplico toda esa experiencia en la creación de soluciones tecnológicas robustas y escalables.
+Soy una Desarrolladora Backend apasionada por el código limpio y la arquitectura de software. Actualmente curso mi último año en la UTN Córdoba y lidero el desarrollo integral de EcoNexo, una plataforma de impacto social.
 
----
+Vengo de una trayectoria profesional de más de 10 años en sectores de alta exigencia, lo que me brindó una base sólida en resolución de problemas, disciplina y trabajo bajo presión. Hoy, aplico toda esa experiencia en la creación de soluciones tecnológicas robustas y escalables.
 
-## 🚀 Sobre mí
-
-- 🔭 **Actualmente trabajando en:** EcoNexo (Proyecto Final de Carrera - Full Stack)
-- 🌱 **Aprendiendo continuamente sobre:** Arquitectura de Microservicios y Clean Code
-- 💬 **Hablame sobre:** Java, Spring Boot y cómo construir software que resuelva problemas reales.
-- 🌍 **Idiomas:** Español (Nativo) · Portugués (Fluido) · Inglés (B2)
+<ul>
+  <li>🚀 Actualmente trabajando en EcoNexo, una plataforma de logística para donaciones de alimentos.</li>
+  <li>🎓 Estudiante de último año de la Tecnicatura en Programación (UTN-FRC).</li>
+  <li>🌱 Perfeccionando mis conocimientos en Spring Security y Microservicios.</li>
+</ul>
 
 ---
 
