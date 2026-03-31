@@ -1,3 +1,5 @@
+<div align="center"><img src="Banner.png" alt="Gabriela Camacho Banner" width="100%" /></div>
+
 # ¡Hola! Soy Gabriela Camacho 👋
 
 Soy una desarrolladora apasionada por el **Backend** y la **arquitectura de software**. Actualmente estoy cursando mi último año en la UTN Córdoba y realizando el desarrollo integral de **EcoNexo**, una plataforma de impacto social.
