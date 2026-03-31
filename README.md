@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy Gabriela Camacho 👋
 
-👩‍💻 Sobre mí
+## 👩‍💻 Sobre mí 
 
 Soy una Desarrolladora Backend apasionada por el código limpio y la arquitectura de software. Actualmente curso mi último año en la UTN Córdoba y lidero el desarrollo integral de EcoNexo, una plataforma de impacto social.
 
@@ -14,14 +14,14 @@ Vengo de una trayectoria profesional de más de 10 años en sectores de alta exi
   <li>🌱 Perfeccionando mis conocimientos en Spring Security y Microservicios.</li>
 </ul>
 
-📈 Consistencia y Formación
+## 📈 Consistencia y Formación
 
 Mi mayor volumen de actividad técnica y académica (más de 500 contribuciones en el último año) se encuentra vinculado a mis proyectos en la UTN-FRC. Mantengo un ritmo de desarrollo constante, enfocado en la resolución de problemas reales y el aprendizaje continuo.
 
 ---
 
-🛠️ Tech Stack
-Backend:
+## 🛠️ Tech Stack
+### Backend:
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
@@ -29,18 +29,21 @@ Backend:
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />
   <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
 </p>
-Frontend:
+
+### Frontend:
 <p align="left">
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
 </p>
-Bases de Datos:
+
+### Bases de Datos:
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/mysql-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
-Herramientas & DevOps:
+
+### Herramientas & DevOps:
 <p align="left">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -63,7 +66,7 @@ Herramientas & DevOps:
   <img src="https://streak-stats.demolab.com?user=gabygit9&theme=dark&hide_border=true" />
 </p>
 
-📫 Contacto
+## 📫 Contacto
 <p align="left">
   <a href="https://linkedin.com/in/gabrielacamachol">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
