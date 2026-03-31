@@ -60,10 +60,7 @@ Mi mayor volumen de actividad técnica y académica (más de 500 contribuciones 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabygit9&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
   &nbsp;
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabygit9&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gabygit9&theme=dark&hide_border=true" />
+   <img src="https://streak-stats.demolab.com?user=gabygit9&theme=dark&hide_border=true" />
 </p>
 
 ## 📫 Contacto
