@@ -14,6 +14,10 @@ Vengo de una trayectoria profesional de más de 10 años en sectores de alta exi
   <li>🌱 Perfeccionando mis conocimientos en Spring Security y Microservicios.</li>
 </ul>
 
+📈 Consistencia y Formación
+
+Mi mayor volumen de actividad técnica y académica (más de 500 contribuciones en el último año) se encuentra vinculado a mis proyectos en la UTN-FRC. Mantengo un ritmo de desarrollo constante, enfocado en la resolución de problemas reales y el aprendizaje continuo.
+
 ---
 
 🛠️ Tech Stack
@@ -45,6 +49,18 @@ Herramientas & DevOps:
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+</p>
+
+## 📊 Estadísticas de Actividad
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabygit9&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  &nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabygit9&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gabygit9&theme=dark&hide_border=true" />
 </p>
 
 📫 Contacto
