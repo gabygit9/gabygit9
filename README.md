@@ -4,7 +4,7 @@
 
 ## 👩‍💻 Sobre mí 
 
-Soy una Desarrolladora Backend apasionada por el código limpio y la arquitectura de software. Actualmente curso mi último año en la UTN Córdoba y lidero el desarrollo integral de EcoNexo, una plataforma de impacto social.
+Soy una Desarrolladora Backend apasionada por el código limpio y la arquitectura de software. Actualmente curso mi último año en la UTN Córdoba y desarrollo en solitario EcoNexo, una plataforma de impacto social, tomando decisiones de arquitectura, backend y frontend de forma autónoma.
 
 Vengo de una trayectoria profesional de más de 10 años en sectores de alta exigencia, lo que me brindó una base sólida en resolución de problemas, disciplina y trabajo bajo presión. Hoy, aplico toda esa experiencia en la creación de soluciones tecnológicas robustas y escalables.
 
@@ -14,9 +14,41 @@ Vengo de una trayectoria profesional de más de 10 años en sectores de alta exi
   <li>🌱 Perfeccionando mis conocimientos en Spring Security y Microservicios.</li>
 </ul>
 
-## 📈 Consistencia y Formación
+---
 
-Mi mayor volumen de actividad técnica y académica (más de 500 contribuciones en el último año) se encuentra vinculado a mis proyectos en la UTN-FRC. Mantengo un ritmo de desarrollo constante, enfocado en la resolución de problemas reales y el aprendizaje continuo.
+## 📈 Consistencia y Volumen de Código
+
+### 🏛️ Actividad Académica y Profesional (UTN-FRC)
+
+Mi mayor volumen de actividad está en mi cuenta institucional, donde trabajo con arquitecturas de microservicios en equipos grandes mediante Pull Requests y Code Reviews. El contribution graph de GitHub no fusiona actividad entre cuentas, por lo que te invito a visitar mi perfil institucional para ver el detalle completo.
+
+<p align="center">
+  <a href="https://github.com/412016-camacho">
+    <img src="https://img.shields.io/badge/Ver%20perfil%20institucional-412016--camacho-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<!-- Actualizá esta imagen periódicamente con una captura de tu contribution graph -->
+<p align="center">
+  <img src="contribution-graph-utn.png" alt="Contribution graph UTN - 181 contribuciones, 47% code review, 53% PRs" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=412016-camacho&layout=compact&theme=dark&hide_border=true&langs_count=6" height="165px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=412016-camacho&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Actividad%20Acad%C3%A9mica%20(UTN)" height="165px" />
+</p>
+
+### 👤 Proyectos Personales y Portfolio
+
+<p align="center">
+  <!-- Perfil Personal (gabygit9) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabygit9&layout=compact&theme=dark&hide_border=true&langs_count=6" height="165px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabygit9&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Perfil%20Personal" height="165px" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gabygit9&theme=dark&hide_border=true" />
+</p>
 
 ---
 
@@ -54,14 +86,7 @@ Mi mayor volumen de actividad técnica y académica (más de 500 contribuciones 
   <img src="https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
 </p>
 
-## 📊 Estadísticas de Actividad
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabygit9&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabygit9&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-   <img src="https://streak-stats.demolab.com?user=gabygit9&theme=dark&hide_border=true" />
-</p>
+---
 
 ## 📫 Contacto
 <p align="left">
