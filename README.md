@@ -4,7 +4,7 @@
 
 ## 👩‍💻 Sobre mí 
 
-Soy una Desarrolladora Full Stack con doco en Backend, apasionada por el código limpio y la arquitectura de software. Actualmente curso mi último año en la UTN Córdoba y desarrollo en solitario EcoNexo, una plataforma de impacto social, tomando decisiones de arquitectura, backend y frontend de forma autónoma.
+Soy una Desarrolladora Full Stack con foco en Backend, apasionada por el código limpio y la arquitectura de software. Actualmente curso mi último año en la UTN Córdoba y desarrollo en solitario EcoNexo, una plataforma de impacto social, tomando decisiones de arquitectura, backend y frontend de forma autónoma.
 
 Vengo de una trayectoria profesional de más de 10 años en sectores de alta exigencia, lo que me brindó una base sólida en resolución de problemas, disciplina y trabajo bajo presión. Hoy, aplico toda esa experiencia en la creación de soluciones tecnológicas robustas y escalables.
 
