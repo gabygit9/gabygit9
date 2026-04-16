@@ -1,4 +1,4 @@
-<div align="center"><img src="Banner.png" alt="Gabriela Camacho Banner" width="100%" /></div>
+<div align="center"><img src="b.png" alt="Gabriela Camacho Banner" width="100%" /></div>
 
 # ¡Hola! Soy Gabriela Camacho 👋
 
